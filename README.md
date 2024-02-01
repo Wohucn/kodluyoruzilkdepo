@@ -9,7 +9,7 @@ Bu depo [Kodluyoruz](https://academy.patika.dev/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/Wohucn/kodluyoruzilkdepo.git
 ```
 
 ## Usage
