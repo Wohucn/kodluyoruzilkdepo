@@ -5,14 +5,14 @@ Bu depo [Kodluyoruz](https://academy.patika.dev/) Front-End Eğitiminde oluştur
 
 ![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
-##Installation 
+## Installation 
 Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programından açınz.
 
 Linux için:
@@ -21,7 +21,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük Değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
