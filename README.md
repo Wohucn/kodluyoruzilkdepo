@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk depo
 
 Bu depo [Kodluyoruz](https://academy.patika.dev/) Front-End Eğitiminde oluşturduğum ilk depo. İçerisinde bir adet README dosyası bir adet de index.html dosyası barındırıyor.
 
-![github](figures/github.png)
+![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ##Installation 
 Öncelikle projeyi clonelayın.
